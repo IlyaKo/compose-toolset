@@ -1,0 +1,4 @@
+include:
+  - postgres/compose.yaml
+  - mongo/compose.yaml
+  - rabbitmq/compose.yaml
